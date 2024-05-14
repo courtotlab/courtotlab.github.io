@@ -1,6 +1,7 @@
 ---
 title: GA4GH Connect
 author: melanie-courtot
+image: images/news/20240423_Ascona.jpg
 tags: GA4GH, meetings
 ---
 
