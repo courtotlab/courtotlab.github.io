@@ -77,6 +77,22 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:GnPB-g6toBAC
+  title: 'FAIR principles: interpretations and implementation considerations'
+  authors:
+  - A Jacobsen
+  - R de Miranda Azevedo
+  - N Juty
+  - D Batista
+  - S Coles
+  - R Cornet
+  - '...'
+  publisher: Data intelligence 2 (1-2), 10-29, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:GnPB-g6toBAC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:W7OEmFMy1HYC
   title: Controlled vocabularies and semantics in systems biology
   authors:
@@ -110,19 +126,20 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:GnPB-g6toBAC
-  title: 'FAIR principles: interpretations and implementation considerations'
+- id: ceQ3BE0AAAAJ:J_g5lzvAfSwC
+  title: 'SBML Level 3: an extensible format for the exchange and reuse of biological
+    models'
   authors:
-  - A Jacobsen
-  - R de Miranda Azevedo
-  - N Juty
-  - D Batista
-  - S Coles
-  - R Cornet
+  - SM Keating
+  - D Waltemath
+  - "M K\xF6nig"
+  - F Zhang
+  - "A Dr\xE4ger"
+  - C Chaouiya
   - '...'
-  publisher: Data intelligence 2 (1-2), 10-29, 2020
+  publisher: Molecular systems biology 16 (8), e9110, 2020
   date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:GnPB-g6toBAC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:J_g5lzvAfSwC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -156,37 +173,36 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:J_g5lzvAfSwC
-  title: 'SBML Level 3: an extensible format for the exchange and reuse of biological
-    models'
+- id: ceQ3BE0AAAAJ:rO6llkc54NcC
+  title: 'GA4GH: International policies and standards for data sharing across genomic
+    research and healthcare'
   authors:
-  - SM Keating
-  - D Waltemath
-  - "M K\xF6nig"
-  - F Zhang
-  - "A Dr\xE4ger"
-  - C Chaouiya
+  - HL Rehm
+  - AJH Page
+  - L Smith
+  - JB Adams
+  - G Alterovitz
+  - LJ Babb
   - '...'
-  publisher: Molecular systems biology 16 (8), e9110, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:J_g5lzvAfSwC
+  publisher: Cell genomics 1 (2), 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:rO6llkc54NcC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:qxL8FJ1GzNcC
-  title: 'Structural genomics on membrane proteins: comparison of more than 100 GPCRs
-    in 3 expression systems'
+- id: ceQ3BE0AAAAJ:35N4QoGY0k4C
+  title: 'OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies'
   authors:
-  - K Lundstrom
-  - R Wagner
-  - C Reinhart
-  - A Desmyter
-  - N Cherouati
-  - T Magnin
+  - R Jackson
+  - N Matentzoglu
+  - JA Overton
+  - R Vita
+  - JP Balhoff
+  - PL Buttigieg
   - '...'
-  publisher: Journal of structural and functional genomics 7, 77-91, 2006
-  date: '2006-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qxL8FJ1GzNcC
+  publisher: Database 2021, baab069, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:35N4QoGY0k4C
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -206,6 +222,23 @@
   publisher: Nucleic acids research 45 (D1), D347-D352, 2017
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:-f6ydRqryjwC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:qxL8FJ1GzNcC
+  title: 'Structural genomics on membrane proteins: comparison of more than 100 GPCRs
+    in 3 expression systems'
+  authors:
+  - K Lundstrom
+  - R Wagner
+  - C Reinhart
+  - A Desmyter
+  - N Cherouati
+  - T Magnin
+  - '...'
+  publisher: Journal of structural and functional genomics 7, 77-91, 2006
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qxL8FJ1GzNcC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -243,39 +276,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:rO6llkc54NcC
-  title: 'GA4GH: International policies and standards for data sharing across genomic
-    research and healthcare'
-  authors:
-  - HL Rehm
-  - AJH Page
-  - L Smith
-  - JB Adams
-  - G Alterovitz
-  - LJ Babb
-  - '...'
-  publisher: Cell genomics 1 (2), 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:rO6llkc54NcC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:35N4QoGY0k4C
-  title: 'OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies'
-  authors:
-  - R Jackson
-  - N Matentzoglu
-  - JA Overton
-  - R Vita
-  - JP Balhoff
-  - PL Buttigieg
-  - '...'
-  publisher: Database 2021, baab069, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:35N4QoGY0k4C
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:RYcK_YlVTxYC
   title: The european nucleotide archive in 2020
   authors:
@@ -308,19 +308,19 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:O3NaXMp0MMsC
-  title: 'MIREOT: the minimum information to reference an external ontology term'
+- id: ceQ3BE0AAAAJ:4OULZ7Gr8RgC
+  title: The GA4GH Phenopacket schema defines a computable representation of clinical
+    data
   authors:
-  - M Courtot
-  - F Gibson
-  - A Lister
-  - J Malone
-  - D Schober
-  - RR Brinkman
+  - JOB Jacobsen
+  - M Baudis
+  - GS Baynam
+  - JS Beckmann
+  - S Beltran
   - '...'
-  publisher: Aug-2009, 2009
-  date: '2009-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:O3NaXMp0MMsC
+  publisher: Nature biotechnology 40 (6), 817-820, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:4OULZ7Gr8RgC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -340,6 +340,22 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:O3NaXMp0MMsC
+  title: 'MIREOT: the minimum information to reference an external ontology term'
+  authors:
+  - A Ruttenberg
+  - M Courtot
+  - F Gibson
+  - A Lister
+  - J Malone
+  - D Schober
+  - '...'
+  publisher: Nature Precedings, 1-1, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:O3NaXMp0MMsC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:e5wmG9Sq2KIC
   title: Dead simple OWL design patterns
   authors:
@@ -350,80 +366,6 @@
   publisher: Journal of biomedical semantics 8, 1-7, 2017
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:e5wmG9Sq2KIC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:9yKSN-GCB0IC
-  title: Adding semantics in kinetics models of biochemical pathways
-  authors:
-  - N Le Novere
-  - M Courtot
-  - C Laibe
-  publisher: "Proceedings of the 2nd International Symposium on experimental standard\
-    \ \u2026, 2007"
-  date: '2007-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:9yKSN-GCB0IC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:IjCSPb-OGe4C
-  title: BioModels. net Web Services, a free and integrated toolkit for computational
-    modelling software
-  authors:
-  - C Li
-  - M Courtot
-  - "N Le Nov\xE8re"
-  - C Laibe
-  publisher: Briefings in bioinformatics 11 (3), 270-277, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:IjCSPb-OGe4C
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:2osOgNQ5qMEC
-  title: The OWL of Biomedical Investigations.
-  authors:
-  - M Courtot
-  - WJ Bug
-  - F Gibson
-  - AL Lister
-  - J Malone
-  - D Schober
-  - '...'
-  publisher: OWLED 432, 2008
-  date: '2008-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:2osOgNQ5qMEC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:k_IJM867U9cC
-  title: 'BioSamples database: an updated sample metadata hub'
-  authors:
-  - M Courtot
-  - L Cherubin
-  - A Faulconbridge
-  - D Vaughan
-  - M Green
-  - '...'
-  publisher: Nucleic acids research 47 (D1), D1172-D1178, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:k_IJM867U9cC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:NhqRSupF_l8C
-  title: The GA4GH Phenopacket schema defines a computable representation of clinical
-    data
-  authors:
-  - JOB Jacobsen
-  - M Baudis
-  - GS Baynam
-  - JS Beckmann
-  - S Beltran
-  - '...'
-  publisher: Nature biotechnology 40 (6), 817-820, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:NhqRSupF_l8C
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -444,6 +386,35 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:k_IJM867U9cC
+  title: 'BioSamples database: an updated sample metadata hub'
+  authors:
+  - M Courtot
+  - L Cherubin
+  - A Faulconbridge
+  - D Vaughan
+  - M Green
+  - '...'
+  publisher: Nucleic acids research 47 (D1), D1172-D1178, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:k_IJM867U9cC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:IjCSPb-OGe4C
+  title: BioModels. net Web Services, a free and integrated toolkit for computational
+    modelling software
+  authors:
+  - C Li
+  - M Courtot
+  - "N Le Nov\xE8re"
+  - C Laibe
+  publisher: Briefings in bioinformatics 11 (3), 270-277, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:IjCSPb-OGe4C
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:iH-uZ7U-co4C
   title: The integrated rapid infectious disease analysis (IRIDA) platform
   authors:
@@ -457,6 +428,35 @@
   publisher: BioRxiv, 381830, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:iH-uZ7U-co4C
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:9yKSN-GCB0IC
+  title: Adding semantics in kinetics models of biochemical pathways
+  authors:
+  - N Le Novere
+  - M Courtot
+  - C Laibe
+  publisher: "Proceedings of the 2nd International Symposium on experimental standard\
+    \ \u2026, 2007"
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:9yKSN-GCB0IC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:2osOgNQ5qMEC
+  title: The OWL of Biomedical Investigations.
+  authors:
+  - M Courtot
+  - WJ Bug
+  - F Gibson
+  - AL Lister
+  - J Malone
+  - D Schober
+  - '...'
+  publisher: OWLED 432, 2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:2osOgNQ5qMEC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -475,21 +475,20 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:qUcmZB5y_30C
-  title: 'From data repositories to submission portals: rethinking the role of domain-specific
-    databases in CollecTF'
+- id: ceQ3BE0AAAAJ:p2g8aNsByqUC
+  title: FAIR in action-a flexible framework to guide FAIRification
   authors:
-  - "S K\u0131l\u0131\xE7"
-  - DM Sagitova
-  - S Wolfish
-  - B Bely
-  - M Courtot
-  - S Ciufo
-  - T Tatusova
+  - D Welter
+  - N Juty
+  - P Rocca-Serra
+  - F Xu
+  - D Henderson
+  - W Gu
+  - J Strubel
   - '...'
-  publisher: Database 2016, baw055, 2016
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qUcmZB5y_30C
+  publisher: Scientific data 10 (1), 291, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:p2g8aNsByqUC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -506,6 +505,24 @@
   publisher: Cell Genomics 1 (2), 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:fPk4N6BV_jEC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:qUcmZB5y_30C
+  title: 'From data repositories to submission portals: rethinking the role of domain-specific
+    databases in CollecTF'
+  authors:
+  - "S K\u0131l\u0131\xE7"
+  - DM Sagitova
+  - S Wolfish
+  - B Bely
+  - M Courtot
+  - S Ciufo
+  - T Tatusova
+  - '...'
+  publisher: Database 2016, baw055, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qUcmZB5y_30C
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -528,11 +545,11 @@
 - id: ceQ3BE0AAAAJ:Y0pCki6q_DkC
   title: Overcoming the ontology enrichment bottleneck with quick term templates
   authors:
+  - A Ruttenberg
+  - A Goldfain
   - P Rocca-Serra
   - A Ruttenberg
   - MJ O'Connor
-  - PL Whetzel
-  - D Schober
   - '...'
   publisher: Applied ontology 6 (1), 13-22, 2011
   date: '2011-01-01'
@@ -556,7 +573,7 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:4OULZ7Gr8RgC
+- id: ceQ3BE0AAAAJ:l7t_Zn2s7bgC
   title: 'The GA4GH Phenopacket schema: A computable representation of clinical data
     for precision medicine'
   authors:
@@ -568,7 +585,7 @@
   - '...'
   publisher: medRxiv, 2021.11. 27.21266944, 2021
   date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:4OULZ7Gr8RgC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:l7t_Zn2s7bgC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -601,6 +618,21 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:f2IySw72cVMC
+  title: Features of a FAIR vocabulary
+  authors:
+  - F Xu
+  - N Juty
+  - C Goble
+  - S Jupp
+  - H Parkinson
+  - M Courtot
+  publisher: Journal of Biomedical Semantics 14 (1), 6, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:f2IySw72cVMC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:mB3voiENLucC
   title: Ten Simple Rules for Biomedical Ontology Development.
   authors:
@@ -613,20 +645,21 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:p2g8aNsByqUC
-  title: FAIR in action-a flexible framework to guide FAIRification
+- id: ceQ3BE0AAAAJ:a0OBvERweLwC
+  title: Recommendations for the formatting of Variant Call Format (VCF) files to
+    make plant genotyping data FAIR
   authors:
-  - D Welter
-  - N Juty
-  - P Rocca-Serra
-  - F Xu
-  - D Henderson
-  - W Gu
-  - J Strubel
+  - S Beier
+  - A Fiebig
+  - C Pommier
+  - I Liyanage
+  - M Lange
+  - PJ Kersey
+  - S Weise
   - '...'
-  publisher: Scientific data 10 (1), 291, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:p2g8aNsByqUC
+  publisher: F1000Research 11, ELIXIR-231, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:a0OBvERweLwC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -664,36 +697,38 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:f2IySw72cVMC
-  title: Features of a FAIR vocabulary
+- id: ceQ3BE0AAAAJ:XiSMed-E-HIC
+  title: 'The Canadian VirusSeq Data Portal and Duotang: open resources for SARS-CoV-2
+    viral sequences and genomic epidemiology'
   authors:
-  - F Xu
-  - N Juty
-  - C Goble
-  - S Jupp
-  - H Parkinson
-  - M Courtot
-  publisher: Journal of Biomedical Semantics 14 (1), 6, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:f2IySw72cVMC
+  - EE Gill
+  - B Jia
+  - CL Murall
+  - R Poujol
+  - MZ Anwar
+  - NS John
+  - J Richardsson
+  - '...'
+  publisher: Microbial Genomics 10 (10), 001293, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:XiSMed-E-HIC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:a0OBvERweLwC
-  title: Recommendations for the formatting of Variant Call Format (VCF) files to
-    make plant genotyping data FAIR
+- id: ceQ3BE0AAAAJ:SP6oXDckpogC
+  title: Toward a common standard for data and specimen provenance in life sciences
   authors:
-  - S Beier
-  - A Fiebig
-  - C Pommier
-  - I Liyanage
-  - M Lange
-  - PJ Kersey
-  - S Weise
+  - R Wittner
+  - P Holub
+  - C Mascia
+  - F Frexia
+  - "H M\xFCller"
+  - M Plass
+  - C Allocca
   - '...'
-  publisher: F1000Research 11, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:a0OBvERweLwC
+  publisher: Learning health systems 8 (1), e10365, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:SP6oXDckpogC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -705,6 +740,23 @@
   publisher: ICBO, 2011
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:LkGwnXOMwfcC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:KxtntwgDAa4C
+  title: 'Accelerating cancer omics and precision oncology in health care and research:
+    a Lancet Oncology Commission'
+  authors:
+  - R Casolino
+  - AL Johns
+  - M Courtot
+  - RT Lawlor
+  - F De Lorenzo
+  - D Horgan
+  - '...'
+  publisher: The lancet oncology 24 (2), 123-125, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:KxtntwgDAa4C
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -733,23 +785,6 @@
   publisher: SWAT4LS 2016, 2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:HDshCWvjkbEC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:KxtntwgDAa4C
-  title: 'Accelerating cancer omics and precision oncology in health care and research:
-    a Lancet Oncology Commission'
-  authors:
-  - R Casolino
-  - AL Johns
-  - M Courtot
-  - RT Lawlor
-  - F De Lorenzo
-  - D Horgan
-  - '...'
-  publisher: The lancet oncology 24 (2), 123-125, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:KxtntwgDAa4C
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -795,23 +830,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:SP6oXDckpogC
-  title: Toward a common standard for data and specimen provenance in life sciences
-  authors:
-  - R Wittner
-  - P Holub
-  - C Mascia
-  - F Frexia
-  - "H M\xFCller"
-  - M Plass
-  - C Allocca
-  - '...'
-  publisher: Learning health systems 8 (1), e10365, 2024
-  date: '2024-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:SP6oXDckpogC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:D03iK_w7-QYC
   title: ELIXIR biovalidator for semantic validation of life science metadata
   authors:
@@ -832,13 +850,14 @@
   title: Towards a Common Standard for Data and Specimen Provenance in Life Sciences
   authors:
   - P Holub
-  - B Kisler
-  - A Kremer
-  - S Lin-Gibson
-  - A Marsano
-  - M Mattavelli
+  - R Wittner
+  - C Mascia
+  - F Frexia
+  - "H M\xFCller"
+  - M Plass
+  - C Allocca
   - '...'
-  publisher: Zenodo, 2021
+  publisher: ''
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:1sJd4Hv_s6UC
   gsid: ceQ3BE0AAAAJ
@@ -870,21 +889,56 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:XiSMed-E-HIC
-  title: 'The Canadian VirusSeq Data Portal & Duotang: open resources for SARS-CoV-2
-    viral sequences and genomic epidemiology'
+- id: ceQ3BE0AAAAJ:vRqMK49ujn8C
+  title: 'P136: Data model and portal development supporting centralization of genetic
+    information in a provincial research network'
   authors:
-  - EE Gill
-  - B Jia
-  - CL Murall
-  - R Poujol
-  - MZ Anwar
-  - NS John
-  - J Richardsson
+  - E Tuzlali
+  - L Xiang
+  - L Hughes
+  - B Chan
+  - P Dos Santos
+  - R Mistry
+  - A Catton
   - '...'
-  publisher: arXiv preprint arXiv:2405.04734, 2024
+  publisher: Genetics in Medicine Open 3, 102980, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:vRqMK49ujn8C
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:08ZZubdj9fEC
+  title: 'Overture: an open-source genomics data platform'
+  authors:
+  - M Shiell
+  - R Bajari
+  - D Andric
+  - J Eubank
+  - BF Chan
+  - AJ Richardsson
+  - A Ali
+  - '...'
+  publisher: GigaScience 14, giaf038, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:08ZZubdj9fEC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:tOudhMTPpwUC
+  title: "Development of the Ontario Hereditary Cancer Research Network, a unified\
+    \ registry as a resource for individuals with inherited cancer syndromes: an observational\
+    \ registry \u2026"
+  authors:
+  - KM Farncombe
+  - LK Hughes
+  - E Tuzlali
+  - MR Akbari
+  - IL Andrulis
+  - M Aronson
+  - '...'
+  publisher: BMJ open 14 (11), e087023, 2024
   date: '2024-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:XiSMed-E-HIC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:tOudhMTPpwUC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -905,14 +959,20 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:pyW8ca7W8N0C
-  title: Features of a FAIR Vocabulary
+- id: ceQ3BE0AAAAJ:WbkHhVStYXYC
+  title: SNP matrix of barley collection from german ex-situ genbank IPK.
   authors:
-  - H Parkinson
-  - M Courtot
-  publisher: ''
+  - S Beier
+  - A Fiebig
+  - C Pommier
+  - I Liyanage
+  - M Lange
+  - PJ Kersey
+  - S Weise
+  - '...'
+  publisher: Leibniz Institute of Plant Genetics and Crop Plant Research, 2022
   date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:pyW8ca7W8N0C
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:WbkHhVStYXYC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -984,22 +1044,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:JV2RwH3_ST0C
-  title: Controlled vocabularies and semantics in systems biology
-  authors:
-  - M Pocock
-  - DJ Wilkinson
-  - A Lister
-  - M Courtot
-  - N Juty
-  - C Knupfer
-  - '...'
-  publisher: Molecular Systems Biology, 2011
-  date: '2011-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:JV2RwH3_ST0C
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:EUQCXRtRnyEC
   title: 'Technical Note OntoFox: web-based support for ontology reuse'
   authors:
@@ -1014,19 +1058,35 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:YFjsv_pBGBYC
-  title: 'MIREOT: the Minimum Information to Reference an External Ontology Term'
+- id: ceQ3BE0AAAAJ:738O_yMBCRsC
+  title: 'Erratum: The Systems Biology Graphical Notation'
   authors:
-  - A Ruttenberg
-  - M Courtot
-  - F Gibson
-  - A Lister
-  - J Malone
-  - D Schober
+  - A Luna
+  - U Dogrusoz
+  - Y Matsuoka
+  - K Wegner
+  - H Kawaji
+  - S Sahle
+  - SE Boyd
   - '...'
-  publisher: Nature Precedings, 1-1, 2009
+  publisher: Nature Biotechnology 27, 864-864, 2009
   date: '2009-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:YFjsv_pBGBYC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:738O_yMBCRsC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:K3LRdlH-MEoC
+  title: Common Infrastructure for National Cohorts in Europe, Canada, and Africa-CINECA
+  authors:
+  - UO UTartu
+  - SR Mbiyavanga
+  - HJ Westra
+  - M Courtot
+  - J Dursi
+  - M Linden
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:K3LRdlH-MEoC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1213,4 +1273,37 @@
   image: https://upload.wikimedia.org/wikipedia/commons/6/69/McArthur_Lab_Logo.png
   plugin: sources.py
   file: sources.yaml
-
+- id: eid:2-s2.0-84885705904
+  date: '2008-10-26'
+  image: http://webont.org/owled/owl.png
+  authors:
+  - "M\xE9lanie Courtot"
+  - William J. Bug
+  - Frank Gibson
+  - Allyson L. Lister
+  - James Malone
+  - Daniel Schober
+  - Ryan R Brinkman
+  - Alan Ruttenberg
+  plugin: sources.py
+  file: sources.yaml
+- id: eid:2-s2.0-84872831891
+  date: '2010-07-09'
+  image: https://www.researchgate.net/profile/Yongqun-He/publication/257869977/figure/fig4/AS:293941552402453@1447092535422/Ontological-representation-of-a-vaccine-protection-assay-and-related-variables-The_Q320.jpg
+  authors:
+  - Yongqun He
+  - Zuoshuang Xiang
+  - Thomas Todd
+  - "M\xE9lanie Courtot"
+  - Ryan Brinkman
+  - Jie Zheng
+  - Christian J. Stoeckert Jr.
+  - James Malone
+  - Philippe Rocca-Serra
+  - Susanna Assunta Sansone
+  - Jennifer Fostel
+  - Larisa N. Soldatova
+  - Bjoern Peters
+  - Alan Ruttenberg
+  plugin: sources.py
+  file: sources.yaml
