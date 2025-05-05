@@ -14,9 +14,9 @@ permissions:
   pull-requests: write
 
 jobs:
-  update-citations:
-    uses: ./.github/workflows/update-citations.yaml
-    secrets: inherit
+  # update-citations:
+  #   uses: ./.github/workflows/update-citations.yaml
+  #   secrets: inherit
 
   build-site:
     # needs: update-citations
