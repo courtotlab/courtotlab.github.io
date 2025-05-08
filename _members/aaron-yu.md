@@ -1,7 +1,7 @@
 ---
 name: Aaron Yu
 image: images/members/Aaron.png
-description: summer student
+description: Summer student - 2025
 role: undergrad
 group: 
 aliases:
