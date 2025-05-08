@@ -1,7 +1,7 @@
 ---
 name: Pratham Hemlani
 image: images/members/Pratham.png
-description: Summer student
+description: Summer student - 2024
 role: undergrad
 group: alum
 aliases:
