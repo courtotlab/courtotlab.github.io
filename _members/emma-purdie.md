@@ -1,10 +1,10 @@
 ---
 name: Emma Purdie
-image: images/members/100_0530.jpg
+image: images/members/emma_purdie.jpg
 description: Summer Student - 2025
 role: undergrad
 aliases:
 links:
-  email: epurdie@uoguelph.ca
-  github: epurdie259
+    email: epurdie@uoguelph.ca
+    github: epurdie259
 ---
