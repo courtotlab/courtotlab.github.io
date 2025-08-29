@@ -120,7 +120,7 @@
   - P Lord
   - J Malone
   - '...'
-  publisher: Journal of biomedical semantics 1, 1-11, 2010
+  publisher: Journal of biomedical semantics 1 (Suppl 1), S7, 2010
   date: '2010-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:d1gkVwhDpl0C
   gsid: ceQ3BE0AAAAJ
@@ -143,36 +143,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:4DMP91E08xMC
-  title: Finding our way through phenotypes
-  authors:
-  - AR Deans
-  - SE Lewis
-  - E Huala
-  - SS Anzaldo
-  - M Ashburner
-  - JP Balhoff
-  - '...'
-  publisher: PLoS biology 13 (1), e1002033, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:4DMP91E08xMC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:zYLM7Y9cAGgC
-  title: 'OntoFox: web-based support for ontology reuse'
-  authors:
-  - Z Xiang
-  - M Courtot
-  - RR Brinkman
-  - A Ruttenberg
-  - Y He
-  publisher: BMC research notes 3, 1-12, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:zYLM7Y9cAGgC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:rO6llkc54NcC
   title: 'GA4GH: International policies and standards for data sharing across genomic
     research and healthcare'
@@ -187,6 +157,36 @@
   publisher: Cell genomics 1 (2), 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:rO6llkc54NcC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:zYLM7Y9cAGgC
+  title: 'OntoFox: web-based support for ontology reuse'
+  authors:
+  - Z Xiang
+  - M Courtot
+  - RR Brinkman
+  - A Ruttenberg
+  - Y He
+  publisher: BMC research notes 3 (1), 175, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:zYLM7Y9cAGgC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:4DMP91E08xMC
+  title: Finding our way through phenotypes
+  authors:
+  - AR Deans
+  - SE Lewis
+  - E Huala
+  - SS Anzaldo
+  - M Ashburner
+  - JP Balhoff
+  - '...'
+  publisher: PLoS biology 13 (1), e1002033, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:4DMP91E08xMC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -225,23 +225,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:qxL8FJ1GzNcC
-  title: 'Structural genomics on membrane proteins: comparison of more than 100 GPCRs
-    in 3 expression systems'
-  authors:
-  - K Lundstrom
-  - R Wagner
-  - C Reinhart
-  - A Desmyter
-  - N Cherouati
-  - T Magnin
-  - '...'
-  publisher: Journal of structural and functional genomics 7, 77-91, 2006
-  date: '2006-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qxL8FJ1GzNcC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:qjMakFHDy7sC
   title: 'MIREOT: The minimum information to reference an external ontology term'
   authors:
@@ -255,6 +238,23 @@
   publisher: Applied Ontology 6 (1), 23-33, 2011
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qjMakFHDy7sC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:qxL8FJ1GzNcC
+  title: 'Structural genomics on membrane proteins: comparison of more than 100 GPCRs
+    in 3 expression systems'
+  authors:
+  - K Lundstrom
+  - R Wagner
+  - C Reinhart
+  - A Desmyter
+  - N Cherouati
+  - T Magnin
+  - '...'
+  publisher: Journal of structural and functional genomics 7 (2), 77-91, 2006
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qxL8FJ1GzNcC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -324,6 +324,22 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:4fKUyHm3Qg0C
+  title: 'MIREOT: the minimum information to reference an external ontology term'
+  authors:
+  - M Courtot
+  - F Gibson
+  - A Lister
+  - J Malone
+  - D Schober
+  - RR Brinkman
+  - '...'
+  publisher: Aug-2009, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:4fKUyHm3Qg0C
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:OU6Ihb5iCvQC
   title: "Basic Formal Ontology 2.0: Specification and user\u2019s guide"
   authors:
@@ -340,22 +356,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:O3NaXMp0MMsC
-  title: 'MIREOT: the minimum information to reference an external ontology term'
-  authors:
-  - A Ruttenberg
-  - M Courtot
-  - F Gibson
-  - A Lister
-  - J Malone
-  - D Schober
-  - '...'
-  publisher: Nature Precedings, 1-1, 2009
-  date: '2009-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:O3NaXMp0MMsC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:e5wmG9Sq2KIC
   title: Dead simple OWL design patterns
   authors:
@@ -363,7 +363,7 @@
   - M Courtot
   - JP Balhoff
   - C Mungall
-  publisher: Journal of biomedical semantics 8, 1-7, 2017
+  publisher: Journal of biomedical semantics 8 (1), 18, 2017
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:e5wmG9Sq2KIC
   gsid: ceQ3BE0AAAAJ
@@ -401,20 +401,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:IjCSPb-OGe4C
-  title: BioModels. net Web Services, a free and integrated toolkit for computational
-    modelling software
-  authors:
-  - C Li
-  - M Courtot
-  - "N Le Nov\xE8re"
-  - C Laibe
-  publisher: Briefings in bioinformatics 11 (3), 270-277, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:IjCSPb-OGe4C
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:iH-uZ7U-co4C
   title: The integrated rapid infectious disease analysis (IRIDA) platform
   authors:
@@ -431,6 +417,20 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:IjCSPb-OGe4C
+  title: BioModels. net Web Services, a free and integrated toolkit for computational
+    modelling software
+  authors:
+  - C Li
+  - M Courtot
+  - "N Le Nov\xE8re"
+  - C Laibe
+  publisher: Briefings in bioinformatics 11 (3), 270-277, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:IjCSPb-OGe4C
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:9yKSN-GCB0IC
   title: Adding semantics in kinetics models of biochemical pathways
   authors:
@@ -441,6 +441,21 @@
     \ \u2026, 2007"
   date: '2007-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:9yKSN-GCB0IC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:ZHo1McVdvXMC
+  title: 'BioSamples database: FAIRer samples metadata to accelerate research data
+    management'
+  authors:
+  - M Courtot
+  - D Gupta
+  - I Liyanage
+  - F Xu
+  - T Burdett
+  publisher: Nucleic acids research 50 (D1), D1500-D1507, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:ZHo1McVdvXMC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -457,21 +472,6 @@
   publisher: OWLED 432, 2008
   date: '2008-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:2osOgNQ5qMEC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:ZHo1McVdvXMC
-  title: 'BioSamples database: FAIRer samples metadata to accelerate research data
-    management'
-  authors:
-  - M Courtot
-  - D Gupta
-  - I Liyanage
-  - F Xu
-  - T Burdett
-  publisher: Nucleic acids research 50 (D1), D1500-D1507, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:ZHo1McVdvXMC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -542,21 +542,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:Y0pCki6q_DkC
-  title: Overcoming the ontology enrichment bottleneck with quick term templates
-  authors:
-  - A Ruttenberg
-  - A Goldfain
-  - P Rocca-Serra
-  - A Ruttenberg
-  - MJ O'Connor
-  - '...'
-  publisher: Applied ontology 6 (1), 13-22, 2011
-  date: '2011-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:Y0pCki6q_DkC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:u_35RYKgDlwC
   title: Empirical validation of an automated approach to data use oversight
   authors:
@@ -570,6 +555,21 @@
   publisher: Cell Genomics 1 (2), 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:u_35RYKgDlwC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:Y0pCki6q_DkC
+  title: Overcoming the ontology enrichment bottleneck with quick term templates
+  authors:
+  - P Rocca-Serra
+  - A Ruttenberg
+  - MJ O'Connor
+  - PL Whetzel
+  - D Schober
+  - '...'
+  publisher: Applied ontology 6 (1), 13-22, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:Y0pCki6q_DkC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -589,19 +589,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:4TOpqqG69KYC
-  title: 'The logic of surveillance guidelines: an analysis of vaccine adverse event
-    reports from an ontological perspective'
-  authors:
-  - M Courtot
-  - RR Brinkman
-  - A Ruttenberg
-  publisher: PloS one 9 (3), e92632, 2014
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:4TOpqqG69KYC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:ns9cj8rnVeAC
   title: Overcoming the ontology enrichment bottleneck with quick term templates
   authors:
@@ -615,6 +602,19 @@
   publisher: Nature Precedings, 1-1, 2009
   date: '2009-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:ns9cj8rnVeAC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:4TOpqqG69KYC
+  title: 'The logic of surveillance guidelines: an analysis of vaccine adverse event
+    reports from an ontological perspective'
+  authors:
+  - M Courtot
+  - RR Brinkman
+  - A Ruttenberg
+  publisher: PloS one 9 (3), e92632, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:4TOpqqG69KYC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -642,6 +642,23 @@
   publisher: ICBO/BioCreative, 2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:mB3voiENLucC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:SP6oXDckpogC
+  title: Toward a common standard for data and specimen provenance in life sciences
+  authors:
+  - R Wittner
+  - P Holub
+  - C Mascia
+  - F Frexia
+  - "H M\xFCller"
+  - M Plass
+  - C Allocca
+  - '...'
+  publisher: Learning health systems 8 (1), e10365, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:SP6oXDckpogC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -715,23 +732,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:SP6oXDckpogC
-  title: Toward a common standard for data and specimen provenance in life sciences
-  authors:
-  - R Wittner
-  - P Holub
-  - C Mascia
-  - F Frexia
-  - "H M\xFCller"
-  - M Plass
-  - C Allocca
-  - '...'
-  publisher: Learning health systems 8 (1), e10365, 2024
-  date: '2024-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:SP6oXDckpogC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:LkGwnXOMwfcC
   title: Towards an Adverse Event Reporting Ontology.
   authors:
@@ -754,7 +754,7 @@
   - F De Lorenzo
   - D Horgan
   - '...'
-  publisher: The lancet oncology 24 (2), 123-125, 2023
+  publisher: The Lancet Oncology 24 (2), 123-125, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:KxtntwgDAa4C
   gsid: ceQ3BE0AAAAJ
@@ -797,7 +797,7 @@
   - M Courtot
   - H Parkinson
   - L Badi
-  publisher: Journal of biomedical semantics 9, 1-10, 2018
+  publisher: Journal of biomedical semantics 9 (1), 10, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:RHpTSmoSYBkC
   gsid: ceQ3BE0AAAAJ
@@ -827,6 +827,23 @@
   publisher: ICBO, 2011
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:WF5omc3nYNoC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:08ZZubdj9fEC
+  title: 'Overture: an open-source genomics data platform'
+  authors:
+  - M Shiell
+  - R Bajari
+  - D Andric
+  - J Eubank
+  - BF Chan
+  - AJ Richardsson
+  - A Ali
+  - '...'
+  publisher: GigaScience 14, giaf038, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:08ZZubdj9fEC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -889,6 +906,59 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:B3FOqHPlNUQC
+  title: 'Abstract A006: Data Curation and Knowledge Integration Pipeline for Biomarker
+    Discovery'
+  authors:
+  - S Majoros
+  - M Shiell
+  - J Wang
+  - J Richardsson
+  - QM Trinh
+  - R Marcellus
+  - '...'
+  publisher: Clinical Cancer Research 31 (13_Supplement), A006-A006, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:B3FOqHPlNUQC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:tS2w5q8j5-wC
+  title: 'Fixing the plumbing: Building interoperability between wastewater genomic
+    surveillance datasets and systems using the PHA4GE contextual data specification'
+  authors:
+  - J Paull
+  - C Barclay
+  - R Cameron
+  - D Dooley
+  - I Gill
+  - D Abraham
+  - R Arteaga
+  - '...'
+  publisher: OSF, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:tS2w5q8j5-wC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:sSrBHYA8nusC
+  title: 'VO: The Vaccine Ontology'
+  authors:
+  - J Zheng
+  - AY Lin
+  - A Huffman
+  - AM Masci
+  - R Racz
+  - G Wu
+  - K Roan
+  - E Ong
+  - '...'
+  publisher: bioRxiv, 2025.08. 12.669998, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:sSrBHYA8nusC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:vRqMK49ujn8C
   title: 'P136: Data model and portal development supporting centralization of genetic
     information in a provincial research network'
@@ -904,23 +974,6 @@
   publisher: Genetics in Medicine Open 3, 102980, 2025
   date: '2025-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:vRqMK49ujn8C
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:08ZZubdj9fEC
-  title: 'Overture: an open-source genomics data platform'
-  authors:
-  - M Shiell
-  - R Bajari
-  - D Andric
-  - J Eubank
-  - BF Chan
-  - AJ Richardsson
-  - A Ali
-  - '...'
-  publisher: GigaScience 14, giaf038, 2025
-  date: '2025-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:08ZZubdj9fEC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1075,6 +1128,22 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:O3NaXMp0MMsC
+  title: 'MIREOT: the Minimum Information to Reference an External Ontology Term'
+  authors:
+  - A Ruttenberg
+  - M Courtot
+  - F Gibson
+  - A Lister
+  - J Malone
+  - D Schober
+  - '...'
+  publisher: Nature Precedings, 1-1, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:O3NaXMp0MMsC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:K3LRdlH-MEoC
   title: Common Infrastructure for National Cohorts in Europe, Canada, and Africa-CINECA
   authors:
@@ -1090,17 +1159,417 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: other-id:c7517
-  title: 'Semantic models in biomedicine: Building interoperating ontologies for biomedical
-    data representation and processing in pharmacovigilance'
-  date: '2014-05-22'
+- id: doi:10.1136/bmjopen-2024-087023
+  title: 'Development of the Ontario Hereditary Cancer Research Network, a unified
+    registry as a resource for individuals with inherited cancer syndromes: an observational
+    registry creation protocol'
   authors:
+  - Kirsten M Farncombe
+  - Lauren K Hughes
+  - Elif Tuzlali
+  - Mohammad Reza Akbari
+  - Irene L Andrulis
+  - Melyssa Aronson
+  - Kathleen Bell
+  - Michelle D Brazas
+  - Melissa Cable-Cibula
+  - Brandon Chan
   - Melanie Courtot
-  image: https://cdn.freebiesupply.com/logos/large/2x/ubc-logo-png-transparent.png
-  link: https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0167454
-  publisher: University of British Columbia
+  - Harriet Feilotter
+  - Jamie Harland
+  - Katie Lark
+  - Jordan Lerner-Ellis
+  - Ellen MacDougall
+  - David Malkin
+  - Steven A Narod
+  - Karen Panabaker
+  - Laszlo Radvanyi
+  - Alison Rusnak
+  - Lincoln Stein
+  - Raymond H Kim
+  publisher: BMJ Open
+  date: '2024-11-01'
+  link: https://doi.org/g9hgbp
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/mgen.0.001293
+  title: 'The Canadian VirusSeq Data Portal and Duotang: open resources for SARS-CoV-2
+    viral sequences and genomic epidemiology'
+  authors:
+  - Erin E. Gill
+  - Baofeng Jia
+  - Carmen Lia Murall
+  - "Rapha\xEBl Poujol"
+  - Muhammad Zohaib Anwar
+  - Nithu Sara John
+  - Justin Richardsson
+  - Ashley Hobb
+  - Abayomi S. Olabode
+  - Alexandru Lepsa
+  - Ana T. Duggan
+  - Andrea D. Tyler
+  - Arnaud N'Guessan
+  - Atul Kachru
+  - Brandon Chan
+  - Catherine Yoshida
+  - Christina K. Yung
+  - David Bujold
+  - Dusan Andric
+  - Edmund Su
+  - Emma J. Griffiths
+  - Gary Van Domselaar
+  - Gordon W. Jolly
+  - Heather K. E. Ward
+  - Henrich Feher
+  - Jared Baker
+  - Jared T. Simpson
+  - Jaser Uddin
+  - Jiannis Ragoussis
+  - Jon Eubank
+  - "J\xF6rg H. Fritz"
+  - "Jos\xE9 H\xE9ctor G\xE1lvez"
+  - Karen Fang
+  - Kim Cullion
+  - Leonardo Rivera
+  - Linda Xiang
+  - Matthew A. Croxen
+  - Mitchell Shiell
+  - Natalie Prystajecky
+  - Pierre-Olivier Quirion
+  - Rosita Bajari
+  - Samantha Rich
+  - Samira Mubareka
+  - Sandrine Moreira
+  - Scott Cain
+  - Steven G. Sutcliffe
+  - Susanne A. Kraemer
+  - Yelizar Alturmessov
+  - Yann Joly
+  - Marc Fiume
+  - Terrance P. Snutch
+  - Cindy Bell
+  - Catalina Lopez-Correa
+  - Julie G. Hussin
+  - Jeffrey B. Joy
+  - Caroline Colijn
+  - Paul M. K. Gordon
+  - William W. L. Hsiao
+  - Art F. Y. Poon
+  - Natalie C. Knox
+  - "M\xE9lanie Courtot"
+  - Lincoln Stein
+  - Sarah P. Otto
+  - Guillaume Bourque
+  - B. Jesse Shapiro
+  - Fiona S. L. Brinkman
+  publisher: Microbial Genomics
+  date: '2024-10-14'
+  link: https://doi.org/n3hv
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13326-023-00286-8
+  title: Features of a FAIR vocabulary
+  authors:
+  - Fuqi Xu
+  - Nick Juty
+  - Carole Goble
+  - Simon Jupp
+  - Helen Parkinson
+  - "M\xE9lanie Courtot"
+  publisher: Journal of Biomedical Semantics
+  date: '2023-06-01'
+  link: https://doi.org/g9hgbq
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41597-023-02167-2
+  title: FAIR in action - a flexible framework to guide FAIRification
+  authors:
+  - Danielle Welter
+  - Nick Juty
+  - Philippe Rocca-Serra
+  - Fuqi Xu
+  - David Henderson
+  - Wei Gu
+  - Jolanda Strubel
+  - Robert T. Giessmann
+  - Ibrahim Emam
+  - Yojana Gadiya
+  - Tooba Abbassi-Daloii
+  - Ebtisam Alharbi
+  - Alasdair J. G. Gray
+  - Melanie Courtot
+  - Philip Gribbon
+  - Vassilios Ioannidis
+  - Dorothy S. Reilly
+  - Nick Lynch
+  - Jan-Willem Boiten
+  - Venkata Satagopam
+  - Carole Goble
+  - Susanna-Assunta Sansone
+  - Tony Burdett
+  publisher: Scientific Data
+  date: '2023-05-19'
+  link: https://doi.org/gsd4hf
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41597-023-02166-3
+  title: The FAIR Cookbook - the essential resource for and by FAIR doers
+  authors:
+  - Philippe Rocca-Serra
+  - Wei Gu
+  - Vassilios Ioannidis
+  - Tooba Abbassi-Daloii
+  - Salvador Capella-Gutierrez
+  - Ishwar Chandramouliswaran
+  - Andrea Splendiani
+  - Tony Burdett
+  - Robert T. Giessmann
+  - David Henderson
+  - Dominique Batista
+  - Ibrahim Emam
+  - Yojana Gadiya
+  - Lucas Giovanni
+  - Egon Willighagen
+  - Chris Evelo
+  - Alasdair J. G. Gray
+  - Philip Gribbon
+  - Nick Juty
+  - Danielle Welter
+  - Karsten Quast
+  - Paul Peeters
+  - Tom Plasterer
+  - Colin Wood
+  - Eelke van der Horst
+  - Dorothy Reilly
+  - Herman van Vlijmen
+  - Serena Scollen
+  - Allyson Lister
+  - Milo Thurston
+  - Ramon Granell
+  - Gabriel Backianathan
+  - Sebastian Baier
+  - Anne Cambon Thomsen
+  - Martin Cook
+  - Melanie Courtot
+  - "Mike d\u2019Arcy"
+  - Kurt Dauth
+  - Eva Marin del Piico
+  - Leyla Garcia
+  - Ulrich Goldmann
+  - "Valentin Grou\xE8s"
+  - Daniel J. B. Clarke
+  - Erwan Lefloch
+  - Isuru Liyanage
+  - Petros Papadopoulos
+  - Cyril Pommier
+  - Emiliano Reynares
+  - Francesco Ronzano
+  - Alejandra Delfin-Rossaro
+  - Venkata Sagatopam
+  - Ashni Sedani
+  - Vitaly Sedlyarov
+  - Liubov Shilova
+  - Sukhi Singh
+  - Jolanda Strubel
+  - Kees van Bochove
+  - Zachary Warnes
+  - Peter Woollard
+  - Fuqi Xu
+  - Andrea Zaliani
+  - Susanna-Assunta Sansone
+  publisher: Scientific Data
+  date: '2023-05-19'
+  link: https://doi.org/gsmcc9
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s1470-2045(23)00007-4
+  title: 'Accelerating cancer omics and precision oncology in health care and research:
+    a Lancet Oncology Commission'
+  authors:
+  - Raffaella Casolino
+  - Amber L Johns
+  - Melanie Courtot
+  - Rita T Lawlor
+  - Francesco De Lorenzo
+  - Denis Horgan
+  - Joaquin Mateo
+  - Nicola Normanno
+  - Mark Rubin
+  - Lincoln Stein
+  - Vivek Subbiah
+  - Benedikt C Westphalen
+  - Mark Lawler
+  - Keunchil Park
+  - Sandra Perdomo
+  - Takayuki Yoshino
+  - Jianmin Wu
+  - Andrew V Biankin
+  publisher: The Lancet Oncology
+  date: '2023-02-01'
+  link: https://doi.org/g9hgbr
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41587-022-01357-4
+  title: The GA4GH Phenopacket schema defines a computable representation of clinical
+    data
+  authors:
+  - Julius O. B. Jacobsen
+  - Michael Baudis
+  - Gareth S. Baynam
+  - Jacques S. Beckmann
+  - Sergi Beltran
+  - Orion J. Buske
+  - Tiffany J. Callahan
+  - Christopher G. Chute
+  - "M\xE9lanie Courtot"
+  - Daniel Danis
+  - Olivier Elemento
+  - Andrea Essenwanger
+  - Robert R. Freimuth
+  - Michael A. Gargano
+  - Tudor Groza
+  - Ada Hamosh
+  - Nomi L. Harris
+  - Rajaram Kaliyaperumal
+  - Kevin C. Kent Lloyd
+  - Aly Khalifa
+  - Peter M. Krawitz
+  - "Sebastian K\xF6hler"
+  - Brian J. Laraway
+  - "Heikki Lehv\xE4slaiho"
+  - Leslie Matalonga
+  - Julie A. McMurry
+  - Alejandro Metke-Jimenez
+  - Christopher J. Mungall
+  - Monica C. Munoz-Torres
+  - Soichi Ogishima
+  - Anastasios Papakonstantinou
+  - Davide Piscia
+  - Nikolas Pontikos
+  - "N\xFAria Queralt-Rosinach"
+  - Marco Roos
+  - Julian Sass
+  - Paul N. Schofield
+  - Dominik Seelow
+  - Anastasios Siapos
+  - Damian Smedley
+  - Lindsay D. Smith
+  - Robin Steinhaus
+  - Jagadish Chandrabose Sundaramurthi
+  - Emilia M. Swietlik
+  - Sylvia Thun
+  - Nicole A. Vasilevsky
+  - Alex H. Wagner
+  - Jeremy L. Warner
+  - Claus Weiland
+  - Myles Axton
+  - Lawrence Babb
+  - Cornelius F. Boerkoel
+  - Bimal P. Chaudhari
+  - Hui-Lin Chin
+  - Michel Dumontier
+  - Nour Gazzaz
+  - David P. Hansen
+  - Harry Hochheiser
+  - Veronica A. Kinsler
+  - "Hanns Lochm\xFCller"
+  - Alexander R. Mankovich
+  - Gary I. Saunders
+  - Panagiotis I. Sergouniotis
+  - Rachel Thompson
+  - Andreas Zankl
+  - Melissa A. Haendel
+  - Peter N. Robinson
+  publisher: Nature Biotechnology
+  date: '2022-06-01'
+  link: https://doi.org/g9hgbs
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/f1000research.109080.2
+  title: Recommendations for the formatting of Variant Call Format (VCF) files to
+    make plant genotyping data FAIR
+  authors:
+  - Sebastian Beier
+  - Anne Fiebig
+  - Cyril Pommier
+  - Isuru Liyanage
+  - Matthias Lange
+  - Paul J. Kersey
+  - Stephan Weise
+  - Richard Finkers
+  - Baron Koylass
+  - Timothee Cezard
+  - "M\xE9lanie Courtot"
+  - Bruno Contreras-Moreira
+  - Guy Naamati
+  - Sarah Dyer
+  - Uwe Scholz
+  publisher: F1000Research
+  date: '2022-05-19'
+  link: https://doi.org/gtq5n7
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btac195
+  title: ELIXIR biovalidator for semantic validation of life science metadata
+  authors:
+  - Isuru Liyanage
+  - Tony Burdett
+  - Bert Droesbeke
+  - Karoly Erdos
+  - Rolando Fernandez
+  - Alasdair Gray
+  - Muhammad Haseeb
+  - Simon Jupp
+  - Flavia Penim
+  - Cyril Pommier
+  - Philippe Rocca-Serra
+  - "M\xE9lanie Courtot"
+  - Frederik Coppens
+  publisher: Bioinformatics
+  date: '2022-04-05'
+  link: https://doi.org/g9hgbt
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1465079/v1
+  title: Features of a FAIR vocabulary
+  authors:
+  - Fuqi Xu
+  - Nick Juty
+  - Carole Goble
+  - Simon Jupp
+  - Helen Parkinson
+  - "M\xE9lanie Courtot"
+  publisher: Research Square Platform LLC
+  date: '2022-05-02'
+  link: https://doi.org/g9hgbv
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkab1046
+  title: 'BioSamples database: FAIRer samples metadata to accelerate research data
+    management'
+  authors:
+  - "M\xE9lanie Courtot"
+  - Dipayan Gupta
+  - Isuru Liyanage
+  - Fuqi Xu
+  - Tony Burdett
+  publisher: Nucleic Acids Research
+  date: '2021-11-08'
+  link: https://doi.org/gtcf4m
+  orcid: 0000-0002-9551-6370
   plugin: sources.py
   file: sources.yaml
+  image: https://www.ebi.ac.uk/biosamples/images/logo_biosamples.png
 - id: doi:10.1101/2021.11.27.21266944
   title: 'The GA4GH Phenopacket schema: A computable representation of clinical data
     for precision medicine'
@@ -1155,24 +1624,275 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-11-30'
   link: https://doi.org/gtcf4n
+  orcid: 0000-0002-9551-6370
+  plugin: sources.py
+  file: sources.yaml
   image: http://phenopackets.org/site/PhenoPackets_Logo.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/nar/gkab1046
-  title: 'BioSamples database: FAIRer samples metadata to accelerate research data
-    management'
+- id: doi:10.1016/j.xgen.2021.100031
+  title: Empirical validation of an automated approach to data use oversight
   authors:
+  - Moran N. Cabili
+  - Jonathan Lawson
+  - Andrea Saltzman
+  - Greg Rushton
+  - "Pearl O\u2019Rourke"
+  - John Wilbanks
+  - Laura Lyman Rodriguez
+  - Tommi Nyronen
   - "M\xE9lanie Courtot"
-  - Dipayan Gupta
-  - Isuru Liyanage
-  - Fuqi Xu
+  - Stacey Donnelly
+  - Anthony A. Philippakis
+  publisher: Cell Genomics
+  date: '2021-11-01'
+  link: https://doi.org/gpp6tc
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.xgen.2021.100030
+  title: GA4GH Passport standard for digital identity and access permissions
+  authors:
+  - Craig Voisin
+  - Mikael Linden
+  - Stephanie O.M. Dyke
+  - Sarion R. Bowers
+  - Pinar Alper
+  - Maxmillian P. Barkley
+  - David Bernick
+  - Jianpeng Chao
+  - "M\xE9lanie Courtot"
+  - Francis Jeanson
+  - Melissa A. Konopko
+  - Martin Kuba
+  - Jonathan Lawson
+  - Jaakko Leinonen
+  - Stephanie Li
+  - Vivian Ota Wang
+  - Anthony A. Philippakis
+  - Kathy Reinold
+  - Gregory A. Rushton
+  - J. Dylan Spalding
+  - "Juha T\xF6rnroos"
+  - Ilya Tulchinsky
+  - Jaime M. Guidry Auvil
+  - "Tommi H. Nyr\xF6nen"
+  publisher: Cell Genomics
+  date: '2021-11-01'
+  link: https://doi.org/gtcf4p
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.xgen.2021.100029
+  title: 'GA4GH: International policies and standards for data sharing across genomic
+    research and healthcare'
+  authors:
+  - Heidi L. Rehm
+  - Angela J.H. Page
+  - Lindsay Smith
+  - Jeremy B. Adams
+  - Gil Alterovitz
+  - Lawrence J. Babb
+  - Maxmillian P. Barkley
+  - Michael Baudis
+  - Michael J.S. Beauvais
+  - Tim Beck
+  - Jacques S. Beckmann
+  - Sergi Beltran
+  - David Bernick
+  - Alexander Bernier
+  - James K. Bonfield
+  - Tiffany F. Boughtwood
+  - Guillaume Bourque
+  - Sarion R. Bowers
+  - Anthony J. Brookes
+  - Michael Brudno
+  - Matthew H. Brush
+  - David Bujold
   - Tony Burdett
-  publisher: Nucleic Acids Research
-  date: '2021-11-08'
-  link: https://doi.org/gtcf4m
-  image: https://www.ebi.ac.uk/biosamples/images/logo_biosamples.png
-  plugin: sources.py
-  file: sources.yaml
+  - Orion J. Buske
+  - Moran N. Cabili
+  - Daniel L. Cameron
+  - Robert J. Carroll
+  - Esmeralda Casas-Silva
+  - Debyani Chakravarty
+  - Bimal P. Chaudhari
+  - Shu Hui Chen
+  - J. Michael Cherry
+  - Justina Chung
+  - Melissa Cline
+  - Hayley L. Clissold
+  - Robert M. Cook-Deegan
+  - "M\xE9lanie Courtot"
+  - Fiona Cunningham
+  - Miro Cupak
+  - Robert M. Davies
+  - Danielle Denisko
+  - Megan J. Doerr
+  - Lena I. Dolman
+  - Edward S. Dove
+  - L. Jonathan Dursi
+  - Stephanie O.M. Dyke
+  - James A. Eddy
+  - Karen Eilbeck
+  - Kyle P. Ellrott
+  - Susan Fairley
+  - Khalid A. Fakhro
+  - Helen V. Firth
+  - Michael S. Fitzsimons
+  - Marc Fiume
+  - Paul Flicek
+  - Ian M. Fore
+  - Mallory A. Freeberg
+  - Robert R. Freimuth
+  - Lauren A. Fromont
+  - Jonathan Fuerth
+  - Clara L. Gaff
+  - Weiniu Gan
+  - Elena M. Ghanaim
+  - David Glazer
+  - Robert C. Green
+  - Malachi Griffith
+  - Obi L. Griffith
+  - Robert L. Grossman
+  - Tudor Groza
+  - Jaime M. Guidry Auvil
+  - "Roderic Guig\xF3"
+  - Dipayan Gupta
+  - Melissa A. Haendel
+  - Ada Hamosh
+  - David P. Hansen
+  - Reece K. Hart
+  - Dean Mitchell Hartley
+  - David Haussler
+  - Rachele M. Hendricks-Sturrup
+  - Calvin W.L. Ho
+  - Ashley E. Hobb
+  - Michael M. Hoffman
+  - Oliver M. Hofmann
+  - Petr Holub
+  - Jacob Shujui Hsu
+  - Jean-Pierre Hubaux
+  - Sarah E. Hunt
+  - Ammar Husami
+  - Julius O. Jacobsen
+  - Saumya S. Jamuar
+  - Elizabeth L. Janes
+  - Francis Jeanson
+  - "Aina Jen\xE9"
+  - Amber L. Johns
+  - Yann Joly
+  - Steven J.M. Jones
+  - Alexander Kanitz
+  - Kazuto Kato
+  - Thomas M. Keane
+  - Kristina Kekesi-Lafrance
+  - Jerome Kelleher
+  - Giselle Kerry
+  - Seik-Soon Khor
+  - Bartha M. Knoppers
+  - Melissa A. Konopko
+  - Kenjiro Kosaki
+  - Martin Kuba
+  - Jonathan Lawson
+  - Rasko Leinonen
+  - Stephanie Li
+  - Michael F. Lin
+  - Mikael Linden
+  - Xianglin Liu
+  - Isuru Udara Liyanage
+  - Javier Lopez
+  - Anneke M. Lucassen
+  - Michael Lukowski
+  - Alice L. Mann
+  - John Marshall
+  - Michele Mattioni
+  - Alejandro Metke-Jimenez
+  - Anna Middleton
+  - Richard J. Milne
+  - "Fruzsina Moln\xE1r-G\xE1bor"
+  - Nicola Mulder
+  - Monica C. Munoz-Torres
+  - Rishi Nag
+  - Hidewaki Nakagawa
+  - Jamal Nasir
+  - Arcadi Navarro
+  - Tristan H. Nelson
+  - Ania Niewielska
+  - Amy Nisselle
+  - Jeffrey Niu
+  - "Tommi H. Nyr\xF6nen"
+  - "Brian D. O\u2019Connor"
+  - Sabine Oesterle
+  - Soichi Ogishima
+  - Vivian Ota Wang
+  - Laura A.D. Paglione
+  - Emilio Palumbo
+  - Helen E. Parkinson
+  - Anthony A. Philippakis
+  - Angel D. Pizarro
+  - Andreas Prlic
+  - Jordi Rambla
+  - Augusto Rendon
+  - Renee A. Rider
+  - Peter N. Robinson
+  - Kurt W. Rodarmer
+  - Laura Lyman Rodriguez
+  - Alan F. Rubin
+  - Manuel Rueda
+  - Gregory A. Rushton
+  - Rosalyn S. Ryan
+  - Gary I. Saunders
+  - Helen Schuilenburg
+  - Torsten Schwede
+  - Serena Scollen
+  - Alexander Senf
+  - Nathan C. Sheffield
+  - Neerjah Skantharajah
+  - Albert V. Smith
+  - Heidi J. Sofia
+  - Dylan Spalding
+  - Amanda B. Spurdle
+  - Zornitza Stark
+  - Lincoln D. Stein
+  - Makoto Suematsu
+  - Patrick Tan
+  - Jonathan A. Tedds
+  - Alastair A. Thomson
+  - Adrian Thorogood
+  - Timothy L. Tickle
+  - Katsushi Tokunaga
+  - "Juha T\xF6rnroos"
+  - David Torrents
+  - Sean Upchurch
+  - Alfonso Valencia
+  - Roman Valls Guimera
+  - Jessica Vamathevan
+  - Susheel Varma
+  - Danya F. Vears
+  - Coby Viner
+  - Craig Voisin
+  - Alex H. Wagner
+  - Susan E. Wallace
+  - Brian P. Walsh
+  - Marc S. Williams
+  - Eva C. Winkler
+  - Barbara J. Wold
+  - Grant M. Wood
+  - J. Patrick Woolley
+  - Chisato Yamasaki
+  - Andrew D. Yates
+  - Christina K. Yung
+  - Lyndon J. Zass
+  - Ksenia Zaytseva
+  - Junjun Zhang
+  - Peter Goodhand
+  - Kathryn North
+  - Ewan Birney
+  publisher: Cell Genomics
+  date: '2021-11-01'
+  link: https://doi.org/gp2f5h
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.xgen.2021.100028
   title: The Data Use Ontology to streamline responsible access to human biomedical
     datasets
@@ -1237,9 +1957,508 @@
   publisher: Cell Genomics
   date: '2021-11-01'
   link: https://doi.org/gpp6td
-  image: https://raw.githubusercontent.com/EBISPOT/DUO/master/doc/figs/DUO_logo_white_background.png
+  orcid: 0000-0002-9551-6370
   plugin: sources.py
   file: sources.yaml
+  image: https://raw.githubusercontent.com/EBISPOT/DUO/master/doc/figs/DUO_logo_white_background.png
+- id: doi:10.1093/database/baab069
+  title: 'OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies'
+  authors:
+  - Rebecca Jackson
+  - Nicolas Matentzoglu
+  - James A Overton
+  - Randi Vita
+  - James P Balhoff
+  - Pier Luigi Buttigieg
+  - Seth Carbon
+  - Melanie Courtot
+  - Alexander D Diehl
+  - Damion M Dooley
+  - William D Duncan
+  - Nomi L Harris
+  - Melissa A Haendel
+  - Suzanna E Lewis
+  - Darren A Natale
+  - David Osumi-Sutherland
+  - Alan Ruttenberg
+  - Lynn M Schriml
+  - Barry Smith
+  - Christian J Stoeckert Jr.
+  - Nicole A Vasilevsky
+  - Ramona L Walls
+  - Jie Zheng
+  - Christopher J Mungall
+  - Bjoern Peters
+  publisher: Database
+  date: '2021-10-01'
+  link: https://doi.org/gspf3n
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.01.446587
+  title: 'OBO Foundry in 2021: Operationalizing Open Data Principles to Evaluate Ontologies'
+  authors:
+  - Rebecca C. Jackson
+  - Nicolas Matentzoglu
+  - James A. Overton
+  - Randi Vita
+  - James P. Balhoff
+  - Pier Luigi Buttigieg
+  - Seth Carbon
+  - Melanie Courtot
+  - Alexander D. Diehl
+  - Damion Dooley
+  - William Duncan
+  - Nomi L. Harris
+  - Melissa A. Haendel
+  - Suzanna E. Lewis
+  - Darren A. Natale
+  - David Osumi-Sutherland
+  - Alan Ruttenberg
+  - Lynn M. Schriml
+  - Barry Smith
+  - Christian J. Stoeckert
+  - Nicole A. Vasilevsky
+  - Ramona L. Walls
+  - Jie Zheng
+  - Christopher J. Mungall
+  - Bjoern Peters
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-02'
+  link: https://doi.org/gtcf43
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkaa1028
+  title: The European Nucleotide Archive in 2020
+  authors:
+  - Peter W Harrison
+  - Alisha Ahamed
+  - Raheela Aslam
+  - Blaise T F Alako
+  - Josephine Burgin
+  - Nicola Buso
+  - "M\xE9lanie Courtot"
+  - Jun Fan
+  - Dipayan Gupta
+  - Muhammad Haseeb
+  - Sam Holt
+  - Talal Ibrahim
+  - Eugene Ivanov
+  - Suran Jayathilaka
+  - "Vishnukumar Balavenkataraman\_Kadhirvelu"
+  - Manish Kumar
+  - Rodrigo Lopez
+  - Simon Kay
+  - Rasko Leinonen
+  - Xin Liu
+  - "Colman O\u2019Cathail"
+  - Amir Pakseresht
+  - Youngmi Park
+  - Stephane Pesant
+  - Nadim Rahman
+  - Jeena Rajan
+  - Alexey Sokolov
+  - Senthilnathan Vijayaraja
+  - Zahra Waheed
+  - Ahmad Zyoud
+  - Tony Burdett
+  - Guy Cochrane
+  publisher: Nucleic Acids Research
+  date: '2020-11-11'
+  link: https://doi.org/gpxs5n
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/msb.20199110
+  title: '<scp>SBML</scp>Level 3: an extensible format for the exchange and reuse
+    of biological models'
+  authors:
+  - Sarah M Keating
+  - Dagmar Waltemath
+  - "Matthias K\xF6nig"
+  - Fengkai Zhang
+  - "Andreas Dr\xE4ger"
+  - Claudine Chaouiya
+  - Frank T Bergmann
+  - Andrew Finney
+  - Colin S Gillespie
+  - "Tom\xE1\u0161 Helikar"
+  - Stefan Hoops
+  - "Rahuman S Malik\u2010Sheriff"
+  - Stuart L Moodie
+  - Ion I Moraru
+  - Chris J Myers
+  - "Aur\xE9lien Naldi"
+  - Brett G Olivier
+  - Sven Sahle
+  - James C Schaff
+  - Lucian P Smith
+  - Maciej J Swat
+  - Denis Thieffry
+  - Leandro Watanabe
+  - Darren J Wilkinson
+  - Michael L Blinov
+  - Kimberly Begley
+  - James R Faeder
+  - "Harold F G\xF3mez"
+  - Thomas M Hamm
+  - Yuichiro Inagaki
+  - Wolfram Liebermeister
+  - Allyson L Lister
+  - Daniel Lucio
+  - Eric Mjolsness
+  - Carole J Proctor
+  - Karthik Raman
+  - Nicolas Rodriguez
+  - Clifford A Shaffer
+  - Bruce E Shapiro
+  - Joerg Stelling
+  - Neil Swainston
+  - Naoki Tanimura
+  - John Wagner
+  - "Martin Meier\u2010Schellersheim"
+  - Herbert M Sauro
+  - Bernhard Palsson
+  - Hamid Bolouri
+  - Hiroaki Kitano
+  - Akira Funahashi
+  - Henning Hermjakob
+  - John C Doyle
+  - Michael Hucka
+  - Richard R Adams
+  - Nicholas A Allen
+  - Bastian R Angermann
+  - Marco Antoniotti
+  - Gary D Bader
+  - "Jan \u010Cerven\xFD"
+  - "M\xE9lanie Courtot"
+  - Chris D Cox
+  - Piero Dalle Pezze
+  - Emek Demir
+  - William S Denney
+  - Harish Dharuri
+  - Julien Dorier
+  - Dirk Drasdo
+  - Ali Ebrahim
+  - Johannes Eichner
+  - Johan Elf
+  - Lukas Endler
+  - Chris T Evelo
+  - Christoph Flamm
+  - Ronan MT Fleming
+  - "Martina Fr\xF6hlich"
+  - Mihai Glont
+  - "Emanuel Gon\xE7alves"
+  - Martin Golebiewski
+  - Hovakim Grabski
+  - Alex Gutteridge
+  - Damon Hachmeister
+  - Leonard A Harris
+  - Benjamin D Heavner
+  - Ron Henkel
+  - William S Hlavacek
+  - Bin Hu
+  - Daniel R Hyduke
+  - Hidde de Jong
+  - Nick Juty
+  - Peter D Karp
+  - Jonathan R Karr
+  - Douglas B Kell
+  - Roland Keller
+  - Ilya Kiselev
+  - Steffen Klamt
+  - Edda Klipp
+  - "Christian Kn\xFCpfer"
+  - Fedor Kolpakov
+  - Falko Krause
+  - Martina Kutmon
+  - Camille Laibe
+  - Conor Lawless
+  - Lu Li
+  - Leslie M Loew
+  - Rainer Machne
+  - Yukiko Matsuoka
+  - Pedro Mendes
+  - Huaiyu Mi
+  - Florian Mittag
+  - Pedro T Monteiro
+  - Kedar Nath Natarajan
+  - Poul MF Nielsen
+  - Tramy Nguyen
+  - Alida Palmisano
+  - "Jean\u2010Baptiste Pettit"
+  - Thomas Pfau
+  - Robert D Phair
+  - Tomas Radivoyevitch
+  - Johann M Rohwer
+  - Oliver A Ruebenacker
+  - "Julio Saez\u2010Rodriguez"
+  - Martin Scharm
+  - Henning Schmidt
+  - Falk Schreiber
+  - Michael Schubert
+  - Roman Schulte
+  - Stuart C Sealfon
+  - Kieran Smallbone
+  - Sylvain Soliman
+  - Melanie I Stefan
+  - Devin P Sullivan
+  - Koichi Takahashi
+  - Bas Teusink
+  - David Tolnay
+  - Ibrahim Vazirabad
+  - Axel von Kamp
+  - Ulrike Wittig
+  - Clemens Wrzodek
+  - Finja Wrzodek
+  - Ioannis Xenarios
+  - Anna Zhukova
+  - Jeremy Zucker
+  publisher: Molecular Systems Biology
+  date: '2020-08-01'
+  link: https://doi.org/gncdt5
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/dint_r_00024
+  title: 'FAIR Principles: Interpretations and Implementation                     Considerations'
+  authors:
+  - Annika Jacobsen
+  - Ricardo de Miranda Azevedo
+  - Nick Juty
+  - Dominique Batista
+  - Simon Coles
+  - Ronald Cornet
+  - "M\xE9lanie Courtot"
+  - "Merc\xE8 Crosas"
+  - Michel Dumontier
+  - Chris T. Evelo
+  - Carole Goble
+  - Giancarlo Guizzardi
+  - Karsten Kryger Hansen
+  - Ali Hasnain
+  - Kristina Hettne
+  - Jaap Heringa
+  - Rob W.W. Hooft
+  - Melanie Imming
+  - Keith G. Jeffery
+  - Rajaram Kaliyaperumal
+  - Martijn G. Kersloot
+  - Christine R. Kirkpatrick
+  - Tobias Kuhn
+  - Ignasi Labastida
+  - Barbara Magagna
+  - Peter McQuilton
+  - Natalie Meyers
+  - Annalisa Montesanti
+  - Mirjam van Reisen
+  - Philippe Rocca-Serra
+  - Robert Pergl
+  - Susanna-Assunta Sansone
+  - Luiz Olavo Bonino da Silva Santos
+  - Juliane Schneider
+  - George Strawn
+  - Mark Thompson
+  - Andra Waagmeester
+  - Tobias Weigel
+  - Mark D. Wilkinson
+  - Egon L. Willighagen
+  - Peter Wittenburg
+  - Marco Roos
+  - Barend Mons
+  - Erik Schultes
+  publisher: Data Intelligence
+  date: '2020-01-01'
+  link: https://doi.org/ggx5cm
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: "doi:10.1162/dint_r_00024\_"
+  title: 'FAIR Principles: Interpretations and Implementation                     Considerations'
+  authors:
+  - Annika Jacobsen
+  - Ricardo de Miranda Azevedo
+  - Nick Juty
+  - Dominique Batista
+  - Simon Coles
+  - Ronald Cornet
+  - "M\xE9lanie Courtot"
+  - "Merc\xE8 Crosas"
+  - Michel Dumontier
+  - Chris T. Evelo
+  - Carole Goble
+  - Giancarlo Guizzardi
+  - Karsten Kryger Hansen
+  - Ali Hasnain
+  - Kristina Hettne
+  - Jaap Heringa
+  - Rob W.W. Hooft
+  - Melanie Imming
+  - Keith G. Jeffery
+  - Rajaram Kaliyaperumal
+  - Martijn G. Kersloot
+  - Christine R. Kirkpatrick
+  - Tobias Kuhn
+  - Ignasi Labastida
+  - Barbara Magagna
+  - Peter McQuilton
+  - Natalie Meyers
+  - Annalisa Montesanti
+  - Mirjam van Reisen
+  - Philippe Rocca-Serra
+  - Robert Pergl
+  - Susanna-Assunta Sansone
+  - Luiz Olavo Bonino da Silva Santos
+  - Juliane Schneider
+  - George Strawn
+  - Mark Thompson
+  - Andra Waagmeester
+  - Tobias Weigel
+  - Mark D. Wilkinson
+  - Egon L. Willighagen
+  - Peter Wittenburg
+  - Marco Roos
+  - Barend Mons
+  - Erik Schultes
+  publisher: Data Intelligence
+  date: '2020-01-01'
+  link: https://doi.org/ggx5cm
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.3238496
+  title: CORBEL Prototype implementation of distributed automated data access request,
+    review and authorization and delivery systems
+  authors:
+  - Mikael Linden
+  - Jan-Willem Boiten
+  - Melanie Courtot
+  - Petr Holub
+  - Gert-Jan van de Geijn
+  - David van Enckevort
+  - Ilkka Lappalainen
+  - "Tommi Nyr\xF6nen"
+  - Helen Parkinson
+  - Robert Reihs
+  - Alexander Senf
+  - Dylan Spalding
+  - Jason Swedlow
+  - Morris Swertz
+  - "Juha T\xF6rnroos"
+  - "Pasi Kankaanp\xE4\xE4"
+  - Erik van Iperen
+  publisher: Zenodo
+  date: '2019-06-04'
+  link: https://doi.org/gtcf67
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gky1061
+  title: 'BioSamples database: an updated sample metadata hub'
+  authors:
+  - "M\xE9lanie Courtot"
+  - Luca Cherubin
+  - Adam Faulconbridge
+  - Daniel Vaughan
+  - Matthew Green
+  - David Richardson
+  - Peter Harrison
+  - Patricia L Whetzel
+  - Helen Parkinson
+  - Tony Burdett
+  publisher: Nucleic Acids Research
+  date: '2018-11-08'
+  link: https://doi.org/gtcf68
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/381830
+  title: The Integrated Rapid Infectious Disease Analysis (IRIDA) Platform
+  authors:
+  - Thomas C Matthews
+  - Franklin R Bristow
+  - Emma J Griffiths
+  - Aaron Petkau
+  - Josh Adam
+  - Damion Dooley
+  - Peter Kruczkiewicz
+  - John Curatcha
+  - Jennifer Cabral
+  - Dan Fornika
+  - Geoffrey L. Winsor
+  - Melanie Courtot
+  - Claire Bertelli
+  - Ataollah Roudgar
+  - Pedro Feijao
+  - Philip Mabon
+  - Eric Enns
+  - Joel Thiessen
+  - Alexander Keddy
+  - Judith Isaac-Renton
+  - Jennifer L. Gardy
+  - Patrick Tang
+  - "The IRIDA Consortium Jo\xE3o A Carri\xE7o"
+  - Leonid Chindelevitch
+  - Cedric Chauve
+  - Morag R Graham
+  - Andrew G McArthur
+  - Eduardo N Taboada
+  - Robert G Beiko
+  - Fiona SL Brinkman
+  - William WL Hsiao
+  - Gary Van Domselaar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-07-31'
+  link: https://doi.org/gkxpc7
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13326-018-0175-z
+  title: Using OWL reasoning to support the generation of novel gene sets for enrichment
+    analysis
+  authors:
+  - David J. Osumi-Sutherland
+  - Enrico Ponta
+  - Melanie Courtot
+  - Helen Parkinson
+  - Laura Badi
+  publisher: Journal of Biomedical Semantics
+  date: '2018-02-14'
+  link: https://doi.org/gnd6ts
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fmicb.2017.02528
+  title: 'Prospects for Fungal Bioremediation of Acidic Radioactive Waste Sites: Characterization
+    and Genome Sequence of Rhodotorula taiwanensis MD1149'
+  authors:
+  - Rok Tkavc
+  - Vera Y. Matrosova
+  - Olga E. Grichenko
+  - "Cene Gostin\u010Dar"
+  - Robert P. Volpe
+  - Polina Klimenkova
+  - Elena K. Gaidamakova
+  - Carol E. Zhou
+  - Benjamin J. Stewart
+  - Mathew G. Lyman
+  - Stephanie A. Malfatti
+  - Bonnee Rubinfeld
+  - Melanie Courtot
+  - Jatinder Singh
+  - Clifton L. Dalgard
+  - Theron Hamilton
+  - Kenneth G. Frey
+  - Nina Gunde-Cimerman
+  - Lawrence Dugan
+  - Michael J. Daly
+  publisher: Frontiers in Microbiology
+  date: '2018-01-08'
+  link: https://doi.org/gcwp2k
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/nar/gkw1004
   title: 'CARD 2017: expansion and model-centric curation of the comprehensive antibiotic
     resistance database'
@@ -1270,25 +2489,523 @@
   publisher: Nucleic Acids Research
   date: '2016-10-26'
   link: https://doi.org/f9wbjs
-  image: https://upload.wikimedia.org/wikipedia/commons/6/69/McArthur_Lab_Logo.png
+  orcid: 0000-0002-9551-6370
   plugin: sources.py
   file: sources.yaml
-- id: eid:2-s2.0-84885705904
-  date: '2008-10-26'
-  image: http://webont.org/owled/owl.png
+  image: https://upload.wikimedia.org/wikipedia/commons/6/69/McArthur_Lab_Logo.png
+- id: doi:10.1186/s13326-017-0126-0
+  title: Dead simple OWL design patterns
+  authors:
+  - David Osumi-Sutherland
+  - Melanie Courtot
+  - James P. Balhoff
+  - Christopher Mungall
+  publisher: Journal of Biomedical Semantics
+  date: '2017-06-05'
+  link: https://doi.org/ghfmkn
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/117812
+  title: 'Identifiers for the 21st century: How to design, provision, and reuse persistent
+    identifiers to maximize utility and impact of life science data'
+  authors:
+  - Julie A McMurry
+  - Nick Juty
+  - Niklas Blomberg
+  - Tony Burdett
+  - Tom Conlin
+  - Nathalie Conte
+  - "M\xE9lanie Courtot"
+  - John Deck
+  - Michel Dumontier
+  - Donal K Fellows
+  - Alejandra Gonzalez-Beltran
+  - Philipp Gormanns
+  - Jeffrey Grethe
+  - Janna Hastings
+  - Henning Hermjakob
+  - "Jean-Karim H\xE9rich\xE9"
+  - Jon C Ison
+  - Rafael C Jimenez
+  - Simon Jupp
+  - John Kunze
+  - Camille Laibe
+  - "Nicolas Le Nov\xE8re"
+  - James Malone
+  - Maria Jesus Martin
+  - Johanna R McEntyre
+  - Chris Morris
+  - Juha Muilu
+  - "Wolfgang M\xFCller"
+  - Philippe Rocca-Serra
+  - Susanna-Assunta Sansone
+  - Murat Sariyar
+  - Jacky L Snoep
+  - Natalie J Stanford
+  - Stian Soiland-Reyes
+  - Neil Swainston
+  - Nicole Washington
+  - Alan R Williams
+  - Sarala Wimalaratne
+  - Lilly Winfree
+  - Katherine Wolstencroft
+  - Carole Goble
+  - Christopher J Mungall
+  - Melissa A Haendel
+  - Helen Parkinson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-03-20'
+  link: https://doi.org/gjrksr
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkw918
+  title: 'Ontobee: A linked ontology data server to support ontology term dereferencing,
+    linkage, query and integration'
+  authors:
+  - Edison Ong
+  - Zuoshuang Xiang
+  - Bin Zhao
+  - Yue Liu
+  - Yu Lin
+  - Jie Zheng
+  - Chris Mungall
+  - "M\xE9lanie Courtot"
+  - Alan Ruttenberg
+  - Yongqun He
+  publisher: Nucleic Acids Research
+  date: '2016-10-12'
+  link: https://doi.org/f9vwcr
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27899567
+  title: Expansion of the Gene Ontology knowledgebase and resources.
+  authors: []
+  publisher: Nucleic acids research
+  date: '2022-05-25'
+  link: http://europepmc.org/abstract/med/27899567
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27789705
+  title: 'CARD 2017: expansion and model-centric curation of the comprehensive antibiotic
+    resistance database.'
+  authors:
+  - Baofeng Jia
+  - Amogelang R Raphenya
+  - Brian Alcock
+  - Nicholas Waglechner
+  - Peiyao Guo
+  - Kara K Tsang
+  - Briony A Lago
+  - Biren M Dave
+  - Sheldon Pereira
+  - Arjun N Sharma
+  - Sachin Doshi
+  - "M\xE9lanie Courtot"
+  - Raymond Lo
+  - Laura E Williams
+  - Jonathan G Frye
+  - Tariq Elsayegh
+  - Daim Sardar
+  - Erin L Westman
+  - Andrew C Pawlowski
+  - Timothy A Johnson
+  - Fiona S L Brinkman
+  - Gerard D Wright
+  - Andrew G McArthur
+  publisher: Nucleic acids research
+  date: '2022-05-25'
+  link: http://europepmc.org/abstract/med/27789705
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27733503
+  title: 'Ontobee: A linked ontology data server to support ontology term dereferencing,
+    linkage, query and integration.'
+  authors:
+  - Edison Ong
+  - Zuoshuang Xiang
+  - Bin Zhao
+  - Yue Liu
+  - Yu Lin
+  - Jie Zheng
+  - Chris Mungall
+  - "M\xE9lanie Courtot"
+  - Alan Ruttenberg
+  - Yongqun He
+  publisher: Nucleic acids research
+  date: '2022-05-25'
+  link: http://europepmc.org/abstract/med/27733503
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/database/baw055
+  title: 'From data repositories to submission portals: rethinking the role of domain-specific
+    databases in CollecTF'
+  authors:
+  - "Sefa K\u0131l\u0131\xE7"
+  - Dinara M. Sagitova
+  - Shoshannah Wolfish
+  - Benoit Bely
+  - "M\xE9lanie Courtot"
+  - Stacy Ciufo
+  - Tatiana Tatusova
+  - "Claire O\u2019Donovan"
+  - Marcus C. Chibucos
+  - Maria J. Martin
+  - Ivan Erill
+  publisher: Database
+  date: '2016-01-01'
+  link: https://doi.org/grxfj9
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85016220417
+  title: 'Slim-o-matic: A semi-automated way to generate Gene Ontology slims'
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85016220417&partnerID=MN8TOARS
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85018758389
+  title: Ten simple rules for biomedical ontology development
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85018758389&partnerID=MN8TOARS
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0154556
+  title: The Ontology for Biomedical Investigations
+  authors:
+  - Anita Bandrowski
+  - Ryan Brinkman
+  - Mathias Brochhausen
+  - Matthew H. Brush
+  - Bill Bug
+  - Marcus C. Chibucos
+  - Kevin Clancy
+  - "M\xE9lanie Courtot"
+  - Dirk Derom
+  - Michel Dumontier
+  - Liju Fan
+  - Jennifer Fostel
+  - Gilberto Fragoso
+  - Frank Gibson
+  - Alejandra Gonzalez-Beltran
+  - Melissa A. Haendel
+  - Yongqun He
+  - Mervi Heiskanen
+  - Tina Hernandez-Boussard
+  - Mark Jensen
+  - Yu Lin
+  - Allyson L. Lister
+  - Phillip Lord
+  - James Malone
+  - Elisabetta Manduchi
+  - Monnie McGee
+  - Norman Morrison
+  - James A. Overton
+  - Helen Parkinson
+  - Bjoern Peters
+  - Philippe Rocca-Serra
+  - Alan Ruttenberg
+  - Susanna-Assunta Sansone
+  - Richard H. Scheuermann
+  - Daniel Schober
+  - Barry Smith
+  - Larisa N. Soldatova
+  - Christian J. Stoeckert
+  - Chris F. Taylor
+  - Carlo Torniai
+  - Jessica A. Turner
+  - Randi Vita
+  - Patricia L. Whetzel
+  - Jie Zheng
+  publisher: PLOS ONE
+  date: '2016-04-29'
+  link: https://doi.org/gjjc6m
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btu807
+  title: 'flowCL: ontology-based cell population labelling in flow cytometry'
   authors:
   - "M\xE9lanie Courtot"
-  - William J. Bug
+  - Justin Meskas
+  - Alexander D. Diehl
+  - Radina Droumeva
+  - Raphael Gottardo
+  - Adrin Jalali
+  - Mohammad Jafar Taghiyar
+  - Holden T. Maecker
+  - J. Philip McCoy
+  - Alan Ruttenberg
+  - Richard H. Scheuermann
+  - Ryan R. Brinkman
+  publisher: Bioinformatics
+  date: '2014-12-06'
+  link: https://doi.org/f7cc46
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.1002033
+  title: Finding Our Way through Phenotypes
+  authors:
+  - Andrew R. Deans
+  - Suzanna E. Lewis
+  - Eva Huala
+  - Salvatore S. Anzaldo
+  - Michael Ashburner
+  - James P. Balhoff
+  - David C. Blackburn
+  - Judith A. Blake
+  - J. Gordon Burleigh
+  - Bruno Chanet
+  - Laurel D. Cooper
+  - "M\xE9lanie Courtot"
+  - "S\xE1ndor Cs\xF6sz"
+  - Hong Cui
+  - Wasila Dahdul
+  - Sandip Das
+  - T. Alexander Dececchi
+  - Agnes Dettai
+  - Rui Diogo
+  - Robert E. Druzinsky
+  - Michel Dumontier
+  - Nico M. Franz
+  - Frank Friedrich
+  - George V. Gkoutos
+  - Melissa Haendel
+  - Luke J. Harmon
+  - Terry F. Hayamizu
+  - Yongqun He
+  - Heather M. Hines
+  - Nizar Ibrahim
+  - Laura M. Jackson
+  - Pankaj Jaiswal
+  - Christina James-Zorn
+  - "Sebastian K\xF6hler"
+  - Guillaume Lecointre
+  - Hilmar Lapp
+  - Carolyn J. Lawrence
+  - "Nicolas Le Nov\xE8re"
+  - John G. Lundberg
+  - James Macklin
+  - Austin R. Mast
+  - Peter E. Midford
+  - "Istv\xE1n Mik\xF3"
+  - Christopher J. Mungall
+  - Anika Oellrich
+  - David Osumi-Sutherland
+  - Helen Parkinson
+  - "Mart\xEDn J. Ram\xEDrez"
+  - Stefan Richter
+  - Peter N. Robinson
+  - Alan Ruttenberg
+  - Katja S. Schulz
+  - Erik Segerdell
+  - Katja C. Seltmann
+  - Michael J. Sharkey
+  - Aaron D. Smith
+  - Barry Smith
+  - Chelsea D. Specht
+  - R. Burke Squires
+  - Robert W. Thacker
+  - Anne Thessen
+  - Jose Fernandez-Triana
+  - Mauno Vihinen
+  - Peter D. Vize
+  - Lars Vogt
+  - Christine E. Wall
+  - Ramona L. Walls
+  - Monte Westerfeld
+  - Robert A. Wharton
+  - Christian S. Wirkner
+  - James B. Woolley
+  - Matthew J. Yoder
+  - Aaron M. Zorn
+  - Paula Mabee
+  publisher: PLoS Biology
+  date: '2015-01-06'
+  link: https://doi.org/f3n7zj
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84964088684
+  title: Cell, chemical and anatomical views of the gene ontology
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84964088684&partnerID=MN8TOARS
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84964000629
+  title: 'UniProt-GOA: A central resource for data integration and GO annotation'
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84964000629&partnerID=MN8TOARS
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0092632
+  title: 'The Logic of Surveillance Guidelines: An Analysis of Vaccine Adverse Event
+    Reports from an Ontological Perspective'
+  authors:
+  - "M\xE9lanie Courtot"
+  - Ryan R. Brinkman
+  - Alan Ruttenberg
+  publisher: PLoS ONE
+  date: '2014-03-25'
+  link: https://doi.org/gtcf7m
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84922763951
+  title: Diagnostic criteria and clinical guidelines standardization to automate case
+    classification
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84922763951&partnerID=MN8TOARS
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: other-id:c7515
+  title: Diagnostic criteria and clinical guidelines standardization to automate case
+    classification.
+  publisher: 'CEURS proceedings: International Conference on Biomedical Ontologies'
+  date: '2022-05-27'
+  link: http://europepmc.org/abstract/CTX/C7515
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84891942456
+  title: Building the OBO Foundry-One Policy at a Time
+  publisher: 'CEURS proceedings: International Conference on Biomedical Ontologies'
+  date: '2022-05-31'
+  link: http://europepmc.org/abstract/CTX/C7513
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/msb.2011.77
+  title: Controlled vocabularies and semantics in systems biology
+  authors:
+  - "M\xE9lanie Courtot"
+  - Nick Juty
+  - "Christian Kn\xFCpfer"
+  - Dagmar Waltemath
+  - Anna Zhukova
+  - "Andreas Dr\xE4ger"
+  - Michel Dumontier
+  - Andrew Finney
+  - Martin Golebiewski
+  - Janna Hastings
+  - Stefan Hoops
+  - Sarah Keating
+  - Douglas B Kell
+  - Samuel Kerrien
+  - James Lawson
+  - Allyson Lister
+  - James Lu
+  - Rainer Machne
+  - Pedro Mendes
+  - Matthew Pocock
+  - Nicolas Rodriguez
+  - Alice Villeger
+  - Darren J Wilkinson
+  - Sarala Wimalaratne
+  - Camille Laibe
+  - Michael Hucka
+  - "Nicolas Le Nov\xE8re"
+  publisher: Molecular Systems Biology
+  date: '2011-01-01'
+  link: https://doi.org/cmng7p
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/AO-2011-0087
+  title: 'MIREOT: The minimum information to reference an external ontology term'
+  authors:
+  - "M\xE9lanie Courtot"
   - Frank Gibson
   - Allyson L. Lister
   - James Malone
   - Daniel Schober
+  - Ryan R. Brinkman
+  - Alan Ruttenberg
+  publisher: Applied Ontology
+  date: '2011-01-01'
+  link: https://doi.org/fsm
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: other-id:c7514
+  title: 'Reporting Adverse Events: Basis for a Common Representation.'
+  publisher: 'CEURS proceedings: International Conference on Biomedical Ontologies'
+  date: '2022-05-27'
+  link: http://europepmc.org/abstract/CTX/C7514
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84891959281
+  title: 'Reporting adverse events: Basis for a common representation'
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84891959281&partnerID=MN8TOARS
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/2041-1480-1-S1-S7
+  title: Modeling biomedical experimental processes with OBI
+  authors:
+  - Ryan R Brinkman
+  - "M\xE9lanie Courtot"
+  - Dirk Derom
+  - Jennifer M Fostel
+  - Yongqun He
+  - Phillip Lord
+  - James Malone
+  - Helen Parkinson
+  - Bjoern Peters
+  - Philippe Rocca-Serra
+  - Alan Ruttenberg
+  - Susanna-Assunta Sansone
+  - Larisa N Soldatova
+  - Christian J Stoeckert
+  - Jessica A Turner
+  - Jie Zheng
+  publisher: Journal of Biomedical Semantics
+  date: '2010-06-01'
+  link: https://doi.org/gtcf7q
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1756-0500-3-175
+  title: 'OntoFox: web-based support for ontology reuse'
+  authors:
+  - Zuoshuang Xiang
+  - "M\xE9lanie Courtot"
   - Ryan R Brinkman
   - Alan Ruttenberg
+  - Yongqun He
+  publisher: BMC Research Notes
+  date: '2010-06-22'
+  link: https://doi.org/fvc62m
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84872831891
+  title: Ontology representation and ANOVA analysis of vaccine protection investigation
+  publisher: 'Bio-Ontologies 2010: Semantic Applications in Life Sciences'
+  date: '2010-07-09'
+  link: http://europepmc.org/abstract/CTX/C7512
+  orcid: 0000-0002-9551-6370
   plugin: sources.py
   file: sources.yaml
-- id: eid:2-s2.0-84872831891
-  date: '2010-07-09'
   image: https://www.researchgate.net/profile/Yongqun-He/publication/257869977/figure/fig4/AS:293941552402453@1447092535422/Ontological-representation-of-a-vaccine-protection-assay-and-related-variables-The_Q320.jpg
   authors:
   - Yongqun He
@@ -1305,5 +3022,188 @@
   - Larisa N. Soldatova
   - Bjoern Peters
   - Alan Ruttenberg
+- id: doi:10.1038/npre.2009.3970.1
+  title: Overcoming the Ontology Enrichment Bottleneck with Quick Term Templates
+  authors:
+  - Bjoern Peters
+  - Alan Ruttenberg
+  - Jason Greenbaum
+  - Melanie Courtot
+  - Ryan Brinkman
+  - Patricia Whetzel
+  - Daniel Schober
+  - Susanna Assunta Sansone
+  - Richard Scheuerman
+  - Philippe Rocca-Serra
+  publisher: Nature Precedings
+  date: '2009-11-16'
+  link: https://doi.org/bfsnzh
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/npre.2009.3552
+  title: 'VO: Vaccine Ontology'
+  authors:
+  - Yongqun He
+  - Yongqun He
+  - Lindsay Cowell
+  - Alexander Diehl
+  - Harry Mobley
+  - Bjoern Peters
+  - Alan Ruttenberg
+  - Richard Scheuermann
+  - Ryan Brinkman
+  - Melanie Courtot
+  - Chris Mungall
+  - Zuoshuang Xiang
+  - Fang Chen
+  - Thomas Todd
+  - Lesley Colby
+  - Howard Rush
+  - Trish Whetzel
+  - Mark Musen
+  - Brian Athey
+  - Gilbert Omenn
+  - Barry Smith
+  publisher: Nature Precedings
+  date: '2009-08-05'
+  link: https://doi.org/fmpcww
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bib/bbp056
+  title: BioModels.net Web Services, a free and integrated toolkit for computational
+    modelling software
+  authors:
+  - C. Li
+  - M. Courtot
+  - N. Le Novere
+  - C. Laibe
+  publisher: Briefings in Bioinformatics
+  date: '2009-11-25'
+  link: https://doi.org/ctvr34
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nbt.1558
+  title: The Systems Biology Graphical Notation
+  authors:
+  - "Nicolas Le Nov\xE8re"
+  - Michael Hucka
+  - Huaiyu Mi
+  - Stuart Moodie
+  - Falk Schreiber
+  - Anatoly Sorokin
+  - Emek Demir
+  - Katja Wegner
+  - Mirit I Aladjem
+  - Sarala M Wimalaratne
+  - Frank T Bergman
+  - Ralph Gauges
+  - Peter Ghazal
+  - Hideya Kawaji
+  - Lu Li
+  - Yukiko Matsuoka
+  - "Alice Vill\xE9ger"
+  - Sarah E Boyd
+  - Laurence Calzone
+  - Melanie Courtot
+  - Ugur Dogrusoz
+  - Tom C Freeman
+  - Akira Funahashi
+  - Samik Ghosh
+  - Akiya Jouraku
+  - Sohyoung Kim
+  - Fedor Kolpakov
+  - Augustin Luna
+  - Sven Sahle
+  - Esther Schmidt
+  - Steven Watterson
+  - Guanming Wu
+  - Igor Goryanin
+  - Douglas B Kell
+  - Chris Sander
+  - Herbert Sauro
+  - Jacky L Snoep
+  - Kurt Kohn
+  - Hiroaki Kitano
+  publisher: Nature Biotechnology
+  date: '2009-08-01'
+  link: https://doi.org/bcmzxd
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84885705904
+  title: The OWL of Biomedical Investigations
+  publisher: 'Proceedings of the Fifth OWLED Workshop on OWL: Experiences and Directions'
+  date: '2008-10-26'
+  link: http://europepmc.org/abstract/CTX/C7511
+  orcid: 0000-0002-9551-6370
   plugin: sources.py
   file: sources.yaml
+  image: http://webont.org/owled/owl.png
+  authors:
+  - "M\xE9lanie Courtot"
+  - William J. Bug
+  - Frank Gibson
+  - Allyson L. Lister
+  - James Malone
+  - Daniel Schober
+  - Ryan R Brinkman
+  - Alan Ruttenberg
+- id: other-id:c7516
+  title: Adding semantics in kinetics models of biochemical pathways
+  publisher: Proceedings of the 2nd International Symposium on experimental standard
+    conditions of enzyme characterizations
+  date: '2022-05-27'
+  link: http://europepmc.org/abstract/CTX/C7516
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkj092
+  title: 'BioModels Database: a free, centralized database of curated, published,
+    quantitative kinetic models of biochemical and cellular systems'
+  authors:
+  - N. Le Novere
+  publisher: Nucleic Acids Research
+  date: '2006-01-01'
+  link: https://doi.org/d9vt7v
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10969-006-9011-2
+  title: 'Structural genomics on membrane proteins: comparison of more than 100 GPCRs
+    in 3 expression systems'
+  authors:
+  - Kenneth Lundstrom
+  - Renaud Wagner
+  - Christoph Reinhart
+  - Aline Desmyter
+  - Nadia Cherouati
+  - Thierry Magnin
+  - Gabrielle Zeder-Lutz
+  - Melanie Courtot
+  - "C\xE9cile Prual"
+  - "Nicolas Andr\xE9"
+  - Gherici Hassaine
+  - Hartmut Michel
+  - Christian Cambillau
+  - Franc Pattus
+  publisher: Journal of Structural and Functional Genomics
+  date: '2006-11-22'
+  link: https://doi.org/fs27zw
+  orcid: 0000-0002-9551-6370
+  plugin: orcid.py
+  file: orcid.yaml
+- id: other-id:c7517
+  title: 'Semantic models in biomedicine: Building interoperating ontologies for biomedical
+    data representation and processing in pharmacovigilance'
+  date: '2014-05-22'
+  link: https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0167454
+  orcid: 0000-0002-9551-6370
+  plugin: sources.py
+  file: sources.yaml
+  authors:
+  - Melanie Courtot
+  image: https://cdn.freebiesupply.com/logos/large/2x/ubc-logo-png-transparent.png
+  publisher: University of British Columbia

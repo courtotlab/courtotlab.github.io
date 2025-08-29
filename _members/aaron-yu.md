@@ -3,7 +3,7 @@ name: Aaron Yu
 image: images/members/Aaron.png
 description: Summer student - 2025
 role: undergrad
-group: 
+group: alum
 aliases:
 links:
   email: yua61@mcmaster.ca
