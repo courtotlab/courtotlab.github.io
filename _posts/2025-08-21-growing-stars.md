@@ -17,7 +17,7 @@ Honestly, each of these news would deserve their own post, but it has been such 
   height="300px"
 %}
 
-Our summer students [Aaron Yu](/members/aaron-yu.html) and [Emma Purdie](/members/emma-purdie.html) spent the last few months working in the Courtot lab. Aaron and Emma each received an award for their research project (NSERC - Undergraduate Student Research Awards and Undergraduate Research Opportunity Program award respectively. They investigated new methods for automatic information extraction from documents and creating accessible summaries of research papers. They leave us on a high note, with Aaron just having won the prize for best poster at the MBP Summer student poster session.
+Our summer students [Aaron Yu](/members/aaron-yu.html) and [Emma Purdie](/members/emma-purdie.html) spent the last few months working in the Courtot lab. Aaron and Emma each received an award for their research project (NSERC - Undergraduate Student Research Awards and Undergraduate Research Opportunity Program award respectively). They investigated new methods for automatic information extraction from documents and creating accessible summaries of research papers. They leave us on a high note, with Aaron just having won the prize for best poster at the MBP Summer student poster session.
 
 {%
   include figure.html
@@ -26,7 +26,7 @@ Our summer students [Aaron Yu](/members/aaron-yu.html) and [Emma Purdie](/member
   height="500px"
 %}
 
-And finally, huge congratulations to [Tony Yu](/members/tony-yu.html) and [Andres Melani De La Hoz](/members/andres-melani-de-la-hoz.html) for their University of Toronto Medical BioPhysics excellence awards. This merit-based awards are very well desserved indeed!
+And finally, huge congratulations to [Tony Yu](/members/tony-yu.html) and [Andres Melani De La Hoz](/members/andres-melani-de-la-hoz.html) for their University of Toronto Medical BioPhysics excellence awards. This merit-based awards are very well deserved indeed!
 
 
 {%
