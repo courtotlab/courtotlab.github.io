@@ -26,6 +26,10 @@ msc:
   icon: fa-solid fa-graduation-cap
   description: MSc Student
 
+rotation_student:
+  icon: fa-solid fa-graduation-cap
+  description: Rotation Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
