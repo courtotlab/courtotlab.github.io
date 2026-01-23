@@ -19,3 +19,5 @@ We evaluated the tools in terms of usability, accuracy, robustness, and privacy.
 %} 
 
 Special thanks goes to [Aaron Yu](/members/aaron-yu.html), who worked on this project as a summer student last year.
+
+*<sup>Thumbnail image generated using GPT-Image-1 (OpenAI)</sup>
