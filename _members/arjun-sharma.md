@@ -1,6 +1,6 @@
 ---
 name: Arjun Sharma
-image: images/members/arjun.jpg
+image: images/members/Arjun.jpg
 description: Summer Student
 role: undergrad
 aliases:
