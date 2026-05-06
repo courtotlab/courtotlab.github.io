@@ -1,6 +1,6 @@
 ---
 name: Arjun Sharma
-image: images/members/Arjun.jpeg
+image: images/members/arjun.jpg
 description: Summer Student
 role: HBSc
 aliases:
