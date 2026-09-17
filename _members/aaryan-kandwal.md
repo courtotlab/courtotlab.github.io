@@ -3,6 +3,7 @@ name: Aaryan Kandwal
 image: images/members/aaryan.png
 description: Summer student - 2026
 role: undergrad
+group: alum
 aliases:
 links:
   email: kandwala@mcmaster.ca
