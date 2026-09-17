@@ -3,6 +3,7 @@ name: Xiaosheng Sun
 image: images/members/xiaoshneg.JPG
 description: Summer Student
 role: undergrad
+group: alum
 aliases:
 links:
   email: osborn.sun@mail.utoronto.ca
